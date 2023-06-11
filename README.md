@@ -30,10 +30,10 @@ Skills:  HTML / CSS/C/Java/Python/SQL/SOFTWARE TESTING TOOLS
 - 💬 Ask me about SQA 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Diba327)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ananyna-d-06a227237//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Diba327)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ananyna-d-06a227237//)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Diba327&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Diba327&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Diba327)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Diba327)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/Diba327)  
+![Profile views](https://gpvc.arturio.dev/Diba327)  
